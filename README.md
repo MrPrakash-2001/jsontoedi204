@@ -5,4 +5,4 @@ This package converts any JSON structure to the EDI 204 format.
 ## Installation
 
 ```bash
-npm install @mr_node/json-to-edi204
+npm install json-to-edi204
